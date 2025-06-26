@@ -1,0 +1,64 @@
+{
+  "turn": 1,
+  "timestamp": "2025-06-26T18:25:29",
+  "question": "describe  Elara?",
+  "question_tokens": [
+    "desc",
+    "escr",
+    "scri",
+    "crib",
+    "ribe",
+    "ibee",
+    "beel",
+    "eela",
+    "elar",
+    "lara",
+    "elara"
+  ],
+  "pdf_sparse_debug": [
+    {
+      "text": "Elara",
+      "faiss_dot": 0.6241069456886424,
+      "manual_cosine": 0.6241069414840933,
+      "overlap": [
+        "elara",
+        "elar",
+        "lara"
+      ]
+    },
+    {
+      "text": "Cassian gave Elara a special compass,\na Whispering Compass with a needle of pure moonlight, said to\npoint the way to anything lost.",
+      "faiss_dot": 0.13068875096788865,
+      "manual_cosine": 0.13068875008745096,
+      "overlap": [
+        "elara",
+        "elar",
+        "lara",
+        "eela"
+      ]
+    },
+    {
+      "text": "\"The journey will be perilous,\" he\nwarned, \"but your heart is true.\" Elara knew she had to embark on\nthis adventure for the 150 people who called her village home.",
+      "faiss_dot": 0.1303438565305098,
+      "manual_cosine": 0.13034386342149523,
+      "overlap": [
+        "elara",
+        "elar",
+        "lara",
+        "eela"
+      ]
+    },
+    {
+      "text": "She often\nvisited the city's only library, where a kind, elderly librarian named\nElara (a descendant of the Starchaser) secretly let her see a\nforbidden book.",
+      "faiss_dot": 0.12200048721237956,
+      "manual_cosine": 0.12200048639047387,
+      "overlap": [
+        "elara",
+        "elar",
+        "desc",
+        "lara"
+      ]
+    }
+  ],
+  "chat_sparse_debug": []
+}
